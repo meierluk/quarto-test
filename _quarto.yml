@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "quarto-test"
@@ -10,7 +11,7 @@ book:
     - intro.qmd
     - summary.qmd
     - references.qmd
-  site-url: "https://meierluk.github.io/quarto-test/_book"
+  site-url: "https://meierluk.github.io/quarto-test/"
 
 bibliography: references.bib
 
